@@ -1,5 +1,5 @@
 // Code your solutions in this file
-writeCards(["Adda", "brendan", "Ali"], "suprise");
+writeCards(["Adda", "brendan", "Ali"], "bithday");
 function writeCards(names, event) {
     let arrayOfThanks =[];
     for (let i = 0; i < names.lenth; i++) {
